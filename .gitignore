@@ -1,0 +1,29 @@
+# Compiled output directories
+bin/
+out/
+*.class
+
+# Project-specific runtime logs
+communication_log.csv
+*.log
+
+# IDE files & settings
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+
+# VM crash logs
+hs_err_pid*
+replay_pid*
